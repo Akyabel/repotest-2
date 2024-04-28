@@ -1,4 +1,8 @@
 <h1> Hola mundo! </h1>
 <p> Esto es un documento que va a github </p>
 <div> Se crea una nueva funcionalidad </div>
+<<<<<<< HEAD
 <div> Modificación en rama master </div>
+=======
+<div> Modificación en rama feature</div>
+>>>>>>> feature
